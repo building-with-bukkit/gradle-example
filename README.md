@@ -31,6 +31,8 @@ Go to File -> Import -> Gradle -> Existing Gradle Project
  
 ![](https://media.giphy.com/media/3ov9jUtH9W8mYowCc0/giphy.gif)
 
+If you change the directory from `gradle-example` remember to update it in your `settings.gradle` file before you import!
+
 ## IntelliJ
 
 You should also be able to import the project as a Gradle project. 
