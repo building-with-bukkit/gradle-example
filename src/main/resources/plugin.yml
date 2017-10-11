@@ -1,0 +1,4 @@
+name: GradleExample
+version: ${version}
+main: com.buildingwithbukkit.example.ExamplePlugin
+authors: [MarkehMe]
